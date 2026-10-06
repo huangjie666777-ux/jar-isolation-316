@@ -1,0 +1,26 @@
+{
+  "java": "openjdk version \"21.0.12.1\" 2026-08-18\nOpenJDK Runtime Environment (build 21.0.12.1+1-1-26.04.4-Ubuntu)\nOpenJDK 64-Bit Server VM (build 21.0.12.1+1-1-26.04.4-Ubuntu, mixed mode, sharing)",
+  "artifacts": [
+    {
+      "coordinate": "org.ow2.asm:asm:9.7.1",
+      "path": "lib/asm-9.7.1.jar",
+      "source": "https://repo.maven.apache.org/maven2/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar",
+      "sha256": "8cadd43ac5eb6d09de05faecca38b917a040bb9139c7edeb4cc81c740b713281",
+      "published_sha1": "f0ed132a49244b042cd0e15702ab9f2ce3cc8436"
+    },
+    {
+      "coordinate": "org.ow2.asm:asm-commons:9.7.1",
+      "path": "lib/asm-commons-9.7.1.jar",
+      "source": "https://repo.maven.apache.org/maven2/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar",
+      "sha256": "9a579b54d292ad9be171d4313fd4739c635592c2b5ac3a459bbd1049cddec6a0",
+      "published_sha1": "406c6a2225cfe1819f102a161e54cc16a5c24f75"
+    },
+    {
+      "coordinate": "org.ow2.asm:asm-tree:9.7.1",
+      "path": "lib/asm-tree-9.7.1.jar",
+      "source": "https://repo.maven.apache.org/maven2/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar",
+      "sha256": "9929881f59eb6b840e86d54570c77b59ce721d104e6dfd7a40978991c2d3b41f",
+      "published_sha1": "3a53139787663b139de76b627fca0084ab60d32c"
+    }
+  ]
+}
